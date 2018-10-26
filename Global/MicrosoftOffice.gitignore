@@ -3,6 +3,9 @@
 # Word temporary
 ~$*.doc*
 
+# Word Auto Backup File
+Backup of *.doc*
+
 # Excel temporary
 ~$*.xls*
 
@@ -11,3 +14,6 @@
 
 # PowerPoint temporary
 ~$*.ppt*
+
+# Visio autosave temporary files
+*.~vsd*
